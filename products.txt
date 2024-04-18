@@ -1,0 +1,14 @@
+MercedesBenz A Class Sedan,3,37000.00
+MercedesBenz S Class Coupe,5,150000.00
+MercedesBenz S Class,20,113000.00
+MercedesBenz E Class Sedan,22,63000.00
+MercedesBenz E Class Coupe,27,69750.00
+MercedesBenz C Class Sedan,30,48000.00
+Mercedes-Benz C Class Coupe,28,49500.00
+Mercedes-Benz G Class,3,143000.00
+Mercedes-Maybach S Class,19,196000.00
+Mercedes-Maybach GLS SUV,27,175000.00
+Mercedes-AMG GT coupe,15,118000.00
+Mercedes-AMG SL Roadster,3,133000.00
+Mercedes-Benz A Class,47,15000.00
+Mercedes-Benz X Class ,23,26086.96

@@ -1,0 +1,11 @@
+
+ori,ana,Mercedes-Maybach GLS SUV,1
+ori,ana,MercedesBenz E Class Sedan,3
+Eliza,Iancu,MercedesBenz E Class Coupe,3
+Eliza,Iancu,Mercedes-AMG SL Roadster,7
+Eliza,Iancu,Mercedes-Benz C Class Coupe,2
+ori,ana,Mercedes-Benz G Class,2
+Helga,Hochbauer,Mercedes-Maybach S Class,2
+Helga,Hochbauer,MercedesBenz S Class Coupe,2
+Helga,Hochbauer,MercedesBenz E Class Sedan,3
+ori,ana,Mercedes-Benz A Class,3
